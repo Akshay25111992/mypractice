@@ -1,4 +1,4 @@
-## 📌 PR Checklist
+## 📌 MR Checklist
 
 Before submitting this MR, please make sure you have completed the following:
 
