@@ -7,7 +7,9 @@ Before submitting this MR, please make sure you have completed the following:
 - [ ] 🗄️ Database script (if applicable) has been **reviewed and approved**
 - [ ] 📖 Relevant documentation updated (README / Confluence / API docs)
 - [ ] 🚦 Event Log Added
-- 🙌 MR Reviewed by:
+
+ 
+🙌 MR Reviewed by:
 -    [ ] Akshay
 -    [ ] Greesh
 -    [ ] Mayank
