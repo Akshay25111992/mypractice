@@ -26,7 +26,7 @@ Please include a summary of the changes.
 
 ---
 
-## 📎 Related Issues
+## 📎 Related MRs
 
 Link related issues / tickets here: `Fixes #<issue_number>` (ALC/ ASTF)
 
